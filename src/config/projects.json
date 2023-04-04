@@ -1,0 +1,11 @@
+[
+    {
+        "title": "Farm Land 1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ipsa ipsum minima nemo debitis quisquam iste delectus maiores rem quasi mollitia, similique ut repellendus harum facilis voluptatum consequuntur reprehenderit labore, id perspiciatis fuga. Culpa sit, quasi quos, deleniti vero nulla harum omnis sapiente aspernatur unde voluptatum, distinctio debitis placeat!",
+        "image": "images/fingerprint.svg"
+    }, {
+        "title": "Farm Land 2",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ipsa ipsum minima nemo debitis quisquam iste delectus maiores rem quasi mollitia, similique ut repellendus harum facilis voluptatum consequuntur reprehenderit labore, id perspiciatis fuga. Culpa sit, quasi quos, deleniti vero nulla harum omnis sapiente aspernatur unde voluptatum, distinctio debitis placeat! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio dignissimos, ipsa ipsum minima nemo debitis quisquam iste delectus maiores rem quasi mollitia, similique ut repellendus harum facilis voluptatum consequuntur reprehenderit labore, id perspiciatis fuga. Culpa sit, quasi quos, deleniti vero nulla harum omnis sapiente aspernatur unde voluptatum, distinctio debitis placeat!",
+        "image": "images/fingerprint.svg"
+    }
+]
